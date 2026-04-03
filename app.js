@@ -1,1 +1,1 @@
-console.log("Frontend działa ✅");
+console.log('Frontend działa ✅');
